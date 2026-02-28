@@ -12,7 +12,7 @@ import { RegisterFoundationPage } from './pages/RegisterFoundation';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/Baant-Lo-Nemat">
       <div className="flex flex-col min-h-screen">
         <Navbar />
         <main className="flex-grow">
